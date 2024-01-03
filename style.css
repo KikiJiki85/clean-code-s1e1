@@ -4,20 +4,20 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.advertisement {
+.promo {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.advertisement img {
+.promo img {
   width: 100%;
 }
-.advertisement .more-inf {
+.promo .more-inf {
   font-family: fantasy, cursive;
 }
 @media (max-width:768px) {
-  .advertisement { 
+  .promo { 
     text-align: center;
   }
 }
